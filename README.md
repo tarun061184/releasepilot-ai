@@ -26,4 +26,4 @@ recommendations.
 The project requires a `.env` file to be created in the `backend` directory for configuration. Below is an example of the required `.env` file:
 
 ```dotenv
-GEMINI_API_KEY=k
+GEMINI_API_KEY=keyValue
